@@ -1,0 +1,458 @@
+================================================================================
+🇮🇳  INDIAN STOCK MARKET - UNDERVALUED STOCK ANALYSIS REPORT
+📅  Generated: 2026-05-26 21:49
+📊  Stocks Analyzed: 90
+🏭  Sectors Covered: 9
+================================================================================
+
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
+
+🏆  TOP 15 MOST UNDERVALUED STOCKS (With Growth)
+================================================================================
+
+────────────────────────────────────────────────────────────
+  #1  Sunteck Realty (SUNTECK.NS)
+  Sector: Real Estate
+  ──────────────────────────────────────────────────
+  💰 Price: ₹301.15
+  📊 Market Cap: ₹4,422 Cr
+  📈 PE Ratio: 21.6
+  📘 PB Ratio: 1.32
+  💵 Dividend Yield: 0.49%
+  📊 ROE: 5.23%
+  📈 Revenue Growth: 64.5%
+  📈 Earnings Growth: 26.2%
+  ⚡ RSI: 27.54
+  🎯 Target Price: ₹516.83 (+71.6%)
+  📉 52W Range: ₹270.75 - ₹478.75
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 3/100 (Lower = More Undervalued)
+  🚀 Growth Score: 95.9/100 (Higher = Better Growth)
+  ⭐ Combined Score: 3.4/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #2  Hero MotoCorp (HEROMOTOCO.NS)
+  Sector: Auto
+  ──────────────────────────────────────────────────
+  💰 Price: ₹4,983.00
+  📊 Market Cap: ₹99,706 Cr
+  📈 PE Ratio: 17.38
+  📘 PB Ratio: 4.61
+  💵 Dividend Yield: 3.72%
+  📊 ROE: 28.03%
+  📈 Revenue Growth: 30.2%
+  📈 Earnings Growth: 25.7%
+  ⚡ RSI: 38.8
+  🎯 Target Price: ₹5,931.89 (+19.0%)
+  📉 52W Range: ₹4,158.10 - ₹6,388.50
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 10/100 (Lower = More Undervalued)
+  🚀 Growth Score: 98.2/100 (Higher = Better Growth)
+  ⭐ Combined Score: 6.7/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #3  IREDA (IREDA.NS)
+  Sector: Energy
+  ──────────────────────────────────────────────────
+  💰 Price: ₹129.54
+  📊 Market Cap: ₹36,391 Cr
+  📈 PE Ratio: 18.94
+  📘 PB Ratio: 2.69
+  💵 Dividend Yield: 0.92%
+  📊 ROE: nan%
+  📈 Revenue Growth: 40.8%
+  📈 Earnings Growth: 32.5%
+  ⚡ RSI: 34.69
+  🎯 Target Price: ₹150.00 (+15.8%)
+  📉 52W Range: ₹108.65 - ₹186.58
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 12/100 (Lower = More Undervalued)
+  🚀 Growth Score: 99.5/100 (Higher = Better Growth)
+  ⭐ Combined Score: 7.4/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #4  Godrej Properties (GODREJPROP.NS)
+  Sector: Real Estate
+  ──────────────────────────────────────────────────
+  💰 Price: ₹1,760.20
+  📊 Market Cap: ₹53,019 Cr
+  📈 PE Ratio: 28.62
+  📘 PB Ratio: 2.77
+  💵 Dividend Yield: 0.57%
+  📊 ROE: 9.97%
+  📈 Revenue Growth: 63.0%
+  📈 Earnings Growth: 70.1%
+  ⚡ RSI: 34.36
+  🎯 Target Price: ₹2,267.42 (+28.8%)
+  📉 52W Range: ₹1,434.00 - ₹2,506.50
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 14/100 (Lower = More Undervalued)
+  🚀 Growth Score: 100.0/100 (Higher = Better Growth)
+  ⭐ Combined Score: 8.4/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #5  Indian Oil Corp (IOC.NS)
+  Sector: Energy
+  ──────────────────────────────────────────────────
+  💰 Price: ₹142.38
+  📊 Market Cap: ₹201,058 Cr
+  📈 PE Ratio: 4.66
+  📘 PB Ratio: 0.89
+  💵 Dividend Yield: 6.95%
+  📊 ROE: 20.97%
+  📈 Revenue Growth: 6.7%
+  📈 Earnings Growth: 78.1%
+  ⚡ RSI: 42.77
+  🎯 Target Price: ₹159.42 (+12.0%)
+  📉 52W Range: ₹130.22 - ₹188.96
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 0/100 (Lower = More Undervalued)
+  🚀 Growth Score: 75.7/100 (Higher = Better Growth)
+  ⭐ Combined Score: 9.7/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #6  Lupin (LUPIN.NS)
+  Sector: Pharma
+  ──────────────────────────────────────────────────
+  💰 Price: ₹2,266.00
+  📊 Market Cap: ₹103,605 Cr
+  📈 PE Ratio: 19.46
+  📘 PB Ratio: 4.61
+  💵 Dividend Yield: 0.52%
+  📊 ROE: 26.91%
+  📈 Revenue Growth: 31.9%
+  📈 Earnings Growth: 89.0%
+  ⚡ RSI: 28.6
+  🎯 Target Price: ₹2,458.50 (+8.5%)
+  📉 52W Range: ₹1,836.80 - ₹2,494.00
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 13/100 (Lower = More Undervalued)
+  🚀 Growth Score: 95.0/100 (Higher = Better Growth)
+  ⭐ Combined Score: 9.8/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #7  Genus Power (GENUSPOWER.NS)
+  Sector: Energy
+  ──────────────────────────────────────────────────
+  💰 Price: ₹325.90
+  📊 Market Cap: ₹9,018 Cr
+  📈 PE Ratio: 15.31
+  📘 PB Ratio: 4.06
+  💵 Dividend Yield: 0.76%
+  📊 ROE: 29.0%
+  📈 Revenue Growth: 64.1%
+  📈 Earnings Growth: 39.5%
+  ⚡ RSI: 43.98
+  🎯 Target Price: ₹437.50 (+34.2%)
+  📉 52W Range: ₹206.36 - ₹430.00
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 17/100 (Lower = More Undervalued)
+  🚀 Growth Score: 100.0/100 (Higher = Better Growth)
+  ⭐ Combined Score: 10.2/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #8  Mahindra & Mahindra (M&M.NS)
+  Sector: Auto
+  ──────────────────────────────────────────────────
+  💰 Price: ₹3,107.30
+  📊 Market Cap: ₹373,113 Cr
+  📈 PE Ratio: 20.41
+  📘 PB Ratio: 3.73
+  💵 Dividend Yield: 1.05%
+  📊 ROE: 18.75%
+  📈 Revenue Growth: 30.9%
+  📈 Earnings Growth: 44.8%
+  ⚡ RSI: 35.11
+  🎯 Target Price: ₹4,143.65 (+33.4%)
+  📉 52W Range: ₹2,896.00 - ₹3,839.90
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 19/100 (Lower = More Undervalued)
+  🚀 Growth Score: 99.7/100 (Higher = Better Growth)
+  ⭐ Combined Score: 11.5/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #9  ICICI Bank (ICICIBANK.NS)
+  Sector: Banking
+  ──────────────────────────────────────────────────
+  💰 Price: ₹1,279.10
+  📊 Market Cap: ₹917,029 Cr
+  📈 PE Ratio: 17.1
+  📘 PB Ratio: 2.52
+  💵 Dividend Yield: 0.85%
+  📊 ROE: 16.36%
+  📈 Revenue Growth: 66.9%
+  📈 Earnings Growth: 8.4%
+  ⚡ RSI: 49.86
+  🎯 Target Price: ₹1,669.80 (+30.5%)
+  📉 52W Range: ₹1,187.60 - ₹1,500.00
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 9/100 (Lower = More Undervalued)
+  🚀 Growth Score: 81.7/100 (Higher = Better Growth)
+  ⭐ Combined Score: 12.7/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #10  MRF (MRF.NS)
+  Sector: Auto
+  ──────────────────────────────────────────────────
+  💰 Price: ₹127,160.00
+  📊 Market Cap: ₹53,930 Cr
+  📈 PE Ratio: 22.21
+  📘 PB Ratio: 2.57
+  💵 Dividend Yield: 18.0%
+  📊 ROE: 12.29%
+  📈 Revenue Growth: 13.4%
+  📈 Earnings Growth: 37.1%
+  ⚡ RSI: 39.67
+  🎯 Target Price: ₹137,088.40 (+7.8%)
+  📉 52W Range: ₹123,455.00 - ₹163,600.00
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 19/100 (Lower = More Undervalued)
+  🚀 Growth Score: 93.6/100 (Higher = Better Growth)
+  ⭐ Combined Score: 13.9/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #11  Coal India (COALINDIA.NS)
+  Sector: Energy
+  ──────────────────────────────────────────────────
+  💰 Price: ₹458.15
+  📊 Market Cap: ₹282,345 Cr
+  📈 PE Ratio: 9.08
+  📘 PB Ratio: 2.37
+  💵 Dividend Yield: 4.8%
+  📊 ROE: 28.12%
+  📈 Revenue Growth: 16.2%
+  📈 Earnings Growth: 12.9%
+  ⚡ RSI: 38.87
+  🎯 Target Price: ₹450.81 (-1.6%)
+  📉 52W Range: ₹368.65 - ₹491.25
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 10/100 (Lower = More Undervalued)
+  🚀 Growth Score: 79.2/100 (Higher = Better Growth)
+  ⭐ Combined Score: 14.3/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #12  Coal India (COALINDIA.NS)
+  Sector: Metals & Mining
+  ──────────────────────────────────────────────────
+  💰 Price: ₹458.15
+  📊 Market Cap: ₹282,345 Cr
+  📈 PE Ratio: 9.08
+  📘 PB Ratio: 2.37
+  💵 Dividend Yield: 4.8%
+  📊 ROE: 28.12%
+  📈 Revenue Growth: 16.2%
+  📈 Earnings Growth: 12.9%
+  ⚡ RSI: 38.87
+  🎯 Target Price: ₹450.81 (-1.6%)
+  📉 52W Range: ₹368.65 - ₹491.25
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 10/100 (Lower = More Undervalued)
+  🚀 Growth Score: 79.2/100 (Higher = Better Growth)
+  ⭐ Combined Score: 14.3/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #13  Oberoi Realty (OBEROIRLTY.NS)
+  Sector: Real Estate
+  ──────────────────────────────────────────────────
+  💰 Price: ₹1,693.70
+  📊 Market Cap: ₹61,583 Cr
+  📈 PE Ratio: 24.54
+  📘 PB Ratio: 3.68
+  💵 Dividend Yield: 0.47%
+  📊 ROE: 14.91%
+  📈 Revenue Growth: 52.1%
+  📈 Earnings Growth: 62.4%
+  ⚡ RSI: 53.7
+  🎯 Target Price: ₹1,823.62 (+7.7%)
+  📉 52W Range: ₹1,391.20 - ₹2,005.00
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 24/100 (Lower = More Undervalued)
+  🚀 Growth Score: 100.0/100 (Higher = Better Growth)
+  ⭐ Combined Score: 14.4/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #14  Tata Motors CV (TMCV.NS)
+  Sector: Auto
+  ──────────────────────────────────────────────────
+  💰 Price: ₹385.10
+  📊 Market Cap: ₹141,813 Cr
+  📈 PE Ratio: 46.79
+  📘 PB Ratio: 11.13
+  💵 Dividend Yield: 1.01%
+  📊 ROE: 26.05%
+  📈 Revenue Growth: 19.4%
+  📈 Earnings Growth: 33.4%
+  ⚡ RSI: 25.45
+  🎯 Target Price: ₹466.64 (+21.2%)
+  📉 52W Range: ₹306.30 - ₹509.00
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 24/100 (Lower = More Undervalued)
+  🚀 Growth Score: 100.0/100 (Higher = Better Growth)
+  ⭐ Combined Score: 14.4/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+────────────────────────────────────────────────────────────
+  #15  Garden Reach Shipbuilders (GRSE.NS)
+  Sector: DEFENCE
+  ──────────────────────────────────────────────────
+  💰 Price: ₹2,662.50
+  📊 Market Cap: ₹30,499 Cr
+  📈 PE Ratio: 44.23
+  📘 PB Ratio: 11.61
+  💵 Dividend Yield: 1.0%
+  📊 ROE: 31.79%
+  📈 Revenue Growth: 29.1%
+  📈 Earnings Growth: 24.2%
+  ⚡ RSI: 29.52
+  🎯 Target Price: ₹3,075.25 (+15.5%)
+  📉 52W Range: ₹1,963.70 - ₹3,538.40
+  ──────────────────────────────────────────────────
+  🎯 Valuation Score: 24/100 (Lower = More Undervalued)
+  🚀 Growth Score: 100.0/100 (Higher = Better Growth)
+  ⭐ Combined Score: 14.4/100
+  ✅ VERDICT: 🟢 STRONG UNDERVALUED - High growth potential
+
+
+================================================================================
+📊  SECTOR-WISE ANALYSIS
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏭 BANKING
+  Stocks: 10
+  Avg PE: 16.86
+  Avg PB: 1.65
+  Avg ROE: 12.98%
+  Avg Growth: 1.35%
+  Avg Combined Score: 33.3
+  ⭐ Best Pick: ICICI Bank (Score: 12.7)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏭 IT
+  Stocks: 10
+  Avg PE: 25.49
+  Avg PB: 5.01
+  Avg ROE: 20.42%
+  Avg Growth: 8.65%
+  Avg Combined Score: 28.6
+  ⭐ Best Pick: Persistent Systems (Score: 18.0)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏭 PHARMA
+  Stocks: 10
+  Avg PE: 34.02
+  Avg PB: 4.71
+  Avg ROE: 13.28%
+  Avg Growth: 8.05%
+  Avg Combined Score: 49.5
+  ⭐ Best Pick: Lupin (Score: 9.8)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏭 AUTO
+  Stocks: 10
+  Avg PE: 27.92
+  Avg PB: 6.04
+  Avg ROE: 23.77%
+  Avg Growth: 25.90%
+  Avg Combined Score: 27.9
+  ⭐ Best Pick: Hero MotoCorp (Score: 6.7)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏭 FMCG
+  Stocks: 10
+  Avg PE: 53.72
+  Avg PB: 9.91
+  Avg ROE: 29.34%
+  Avg Growth: 8.75%
+  Avg Combined Score: 36.5
+  ⭐ Best Pick: Nestle India (Score: 24.6)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏭 ENERGY
+  Stocks: 10
+  Avg PE: 13.68
+  Avg PB: 2.20
+  Avg ROE: 18.73%
+  Avg Growth: 7.35%
+  Avg Combined Score: 28.2
+  ⭐ Best Pick: IREDA (Score: 7.4)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏭 METALS & MINING
+  Stocks: 10
+  Avg PE: 18.77
+  Avg PB: 2.61
+  Avg ROE: 23.83%
+  Avg Growth: 13.35%
+  Avg Combined Score: 34.4
+  ⭐ Best Pick: Coal India (Score: 14.3)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏭 REAL ESTATE
+  Stocks: 10
+  Avg PE: 41.80
+  Avg PB: 3.21
+  Avg ROE: 10.00%
+  Avg Growth: 52.10%
+  Avg Combined Score: 29.9
+  ⭐ Best Pick: Sunteck Realty (Score: 3.4)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏭 DEFENCE
+  Stocks: 10
+  Avg PE: 53.31
+  Avg PB: 8.70
+  Avg ROE: 20.46%
+  Avg Growth: 16.50%
+  Avg Combined Score: 42.7
+  ⭐ Best Pick: Garden Reach Shipbuilders (Score: 14.4)
+
+
+================================================================================
+📈  OVERALL MARKET OVERVIEW
+================================================================================
+
+  Total Stocks Analyzed: 90
+  Undervalued (Score < 40): 62
+  Fairly Valued (40-60): 17
+  Overvalued (Score > 60): 11
+
+  Market-wide Median PE: 28.38
+  Market-wide Median PB: 3.88
+  Avg Revenue Growth: 12.30%
+
+  🏆 Most Undervalued Sector: Auto (Avg Score: 27.9)
+  ⚠ Most Overvalued Sector: Pharma (Avg Score: 49.5)
+
+
+================================================================================
+⚠️  DISCLAIMER
+================================================================================
+
+  This report is generated using quantitative analysis of publicly available
+  financial data. It should NOT be considered as financial advice.
+
+  Key Limitations:
+  • Data is sourced from Yahoo Finance and may have delays/inaccuracies
+  • Past performance does not guarantee future results
+  • The scoring model is algorithmic and may not capture all factors
+  • Qualitative factors (management quality, moats, etc.) are not considered
+  • Always consult a SEBI-registered financial advisor before investing
+  • Do your own research (DYOR) before making any investment decisions
+
+  The analysis considers: PE, PB, Dividend Yield, ROE, Revenue Growth,
+  Earnings Growth, Debt/Equity, RSI, Moving Averages, and Analyst Targets.
+        
